@@ -1,0 +1,15 @@
+C:\Users\Вадим\Desktop\Final1\Final1\bin\Debug\net6.0\Final1.exe
+C:\Users\Вадим\Desktop\Final1\Final1\bin\Debug\net6.0\Final1.deps.json
+C:\Users\Вадим\Desktop\Final1\Final1\bin\Debug\net6.0\Final1.runtimeconfig.json
+C:\Users\Вадим\Desktop\Final1\Final1\bin\Debug\net6.0\Final1.dll
+C:\Users\Вадим\Desktop\Final1\Final1\bin\Debug\net6.0\Final1.pdb
+C:\Users\Вадим\Desktop\Final1\Final1\obj\Debug\net6.0\Final1.csproj.AssemblyReference.cache
+C:\Users\Вадим\Desktop\Final1\Final1\obj\Debug\net6.0\Final1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Вадим\Desktop\Final1\Final1\obj\Debug\net6.0\Final1.AssemblyInfoInputs.cache
+C:\Users\Вадим\Desktop\Final1\Final1\obj\Debug\net6.0\Final1.AssemblyInfo.cs
+C:\Users\Вадим\Desktop\Final1\Final1\obj\Debug\net6.0\Final1.csproj.CoreCompileInputs.cache
+C:\Users\Вадим\Desktop\Final1\Final1\obj\Debug\net6.0\Final1.dll
+C:\Users\Вадим\Desktop\Final1\Final1\obj\Debug\net6.0\refint\Final1.dll
+C:\Users\Вадим\Desktop\Final1\Final1\obj\Debug\net6.0\Final1.pdb
+C:\Users\Вадим\Desktop\Final1\Final1\obj\Debug\net6.0\Final1.genruntimeconfig.cache
+C:\Users\Вадим\Desktop\Final1\Final1\obj\Debug\net6.0\ref\Final1.dll

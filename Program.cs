@@ -32,15 +32,15 @@ string PrintArray(string[] workArray)
 
 int CountStringSymbols(string[] workArray)
 {
-    int counter = 0;
+    int count = 0;
     foreach (string item in workArray)
     {
         if (item.Length <= 3)
         {
-            counter++;
+            count++;
         }
     }
-    return counter;
+    return count;
 }
 
 string[] GenerateNewArray(string[] workArray)
